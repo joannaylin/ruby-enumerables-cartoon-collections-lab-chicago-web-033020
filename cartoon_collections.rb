@@ -4,7 +4,6 @@ def roll_call_dwarves(array)# code an argument here
     hash[dwarf] = index
     puts "#{(index+1)}. dwarf"
   }
-  hash
 end
 
 roll_call_dwarves
